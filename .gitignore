@@ -1,6 +1,8 @@
 #archivo no incluir
 noincluir.txt
 
+node_modules/
+
 
 #vscode
 .vscode
